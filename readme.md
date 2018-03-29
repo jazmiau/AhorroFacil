@@ -1,6 +1,6 @@
 # Ahorro Fácil
 
-Ahorro Fácil es una extensión del Banco Nacional del País dirigida a los Millennials que se enfoca en el ahorro y el cumplimiento de metas.
+Ahorro Fácil es una extensión del Banco Nacional del País dirigida a los Millennials que se enfoca en el ahorro y el cumplimiento de metas, ayudándoles y permitiéndoles visualizar sus procesos de manera clara como también tener control de sus gastos.
 
 ![ahrrofacil](https://user-images.githubusercontent.com/32287743/37950119-bf9e113a-316d-11e8-9c2f-72c9edfa0689.png)
 
