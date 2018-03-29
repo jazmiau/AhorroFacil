@@ -82,12 +82,18 @@ https://youtu.be/nXui2U-eSw8
 
 ## Prototipado
 
-El Prototipo fue realizado en Figma
+Primer prototipo de baja fidelidad realizado en Marvelapp
+https://marvelapp.com/81b1e14/screen/39117857
+
+El Prototipo de alta fidelidad fue realizado en Figma
 https://www.figma.com/proto/VpmBQ22z9Zp02k0x9jdlPTCs/Untitled?node-id=1%3A3&scaling=contain
 
 ## Testeo
 
 Se realizan varias instancias de testeo (5 usuarios) en donde nos han entregado un feedback positivo y negativo que nos ha llevado a modificar algunas partes de nuestro sketch interactivo, cómo que ¿Qué es eso de categoría al momento de agregar tu meta? ¿qué es lo que debo ingresar al momento de loguearme? mi nombre? definimos en este caso que es óptimo el registro con tu rut.
+
+![testeo3](https://user-images.githubusercontent.com/32287743/38064638-703f05b8-32d5-11e8-8a79-5f4e289af705.jpg)
+
 
 ## Presentación de nuestro proyecto.
 
