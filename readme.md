@@ -92,3 +92,5 @@ Se realizan varias instancias de testeo (5 usuarios) en donde nos han entregado 
 ## Presentación de nuestro proyecto.
 
 https://docs.google.com/presentation/d/1AdJe7nqvdbE9MZPT0yEKfWU9AWJ0EJYAtd8QTZyPfqs/edit?usp=sharing
+
+![ahorrofacil](https://user-images.githubusercontent.com/32287743/38064579-15a01340-32d5-11e8-800c-9affacdcabd6.jpg)
